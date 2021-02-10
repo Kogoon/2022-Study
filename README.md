@@ -1,2 +1,3 @@
 # Devops-Study
-2021 study goals 
+
+[Devops 공부 목표](https://github.com/Kogoon/Devops-Study/blob/main/Goals.md)
