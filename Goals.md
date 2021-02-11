@@ -1,10 +1,11 @@
 ## 공부 목표 
 
-`2021 상반기 공부 목표`  
+`2021 상반기 공부 목표` `Devops`   
 
 #### Cloud Providers  
  - [ ] AWS  
  - [ ] Google Cloud    
+ - [ ] Digital Ocean
   
 #### Programming Language  
  - [ ] Go  
