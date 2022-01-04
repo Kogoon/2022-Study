@@ -1,30 +1,37 @@
 ## 공부 목표 
 
-`2021 상반기 공부 목표` `Devops`   
+`2022 상반기 공부 목표` `Devops`   
 
 #### Cloud Providers  
- - [ ] AWS  
- - [ ] Google Cloud    
- - [ ] Digital Ocean
+ - [ ] AWS (AWS 먼저.. )  
+ - [ ] ~~Google Cloud~~  
+ - [ ] ~~Azure~~  
+ - [ ] Digital Ocean  
   
-#### Programming Language  
- - [ ] Go   
+#### Programming Language
+ - [ ] Python  
+ - [ ] ~~Go~~  
+ - [ ] ~~JAVA~~  
  - [ ] Flutter  
    
+#### Web Server
+ - [ ] Nginx
+  
 #### Unix  
  - [ ] FreeBSD  
     
 #### Setup
  - [ ] Reverse Proxy  
  - [ ] Caching Server   
- - [ ] Forward Proxy    
+ - [ ] ~~Forward Proxy~~    
  - [ ] Load Balancer  
     
 #### Containers  
  - [ ] Docker  
     
 #### Container Orchestration  
- - [ ] Kubernetes    
+ - [ ] Kubernetes  
+ - [ ] Docker Swarm   
      
 #### Configuration Management   
  - [ ] Ansible  
@@ -33,6 +40,7 @@
  - [ ] Terraform  
   
 #### Infrastructure Monitoring  
+ - [ ] Datadog   
  - [ ] Prometheus  
  - [ ] Grafana  
  
@@ -41,7 +49,13 @@
  
 #### CI/CD Tool  
  - [ ] Github Actions  
- - [ ] Jenkins  
+ - [ ] ~~Jenkins~~
+ - [ ] Travis CI
    
 #### Sevice Mesh  
  - [ ] Istio  
+ - [ ] Consul  
+
+* * *
+### 참고   
+[Devops Roadmap](https://roadmap.sh/devops)
