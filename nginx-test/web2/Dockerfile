@@ -2,7 +2,7 @@ FROM python:3.9
 
 RUN pip install flask
 
-COPY .. /
+COPY . /
 WORKDIR /
 
 EXPOSE 8082
