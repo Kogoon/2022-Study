@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  web01:
+    build: ./web1
+
+  web02:
+    build: ./web2
+
+  nginx:
+    build: ./nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - web01
+      - web02
