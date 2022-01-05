@@ -1,0 +1,9 @@
+upstream myapp {
+    server 172.17.0.1:5001 weight=5;
+    server 172.17.0.1:5002;
+}
+server {
+    location / {
+        proxy_pass http://myapp;
+    }
+}
