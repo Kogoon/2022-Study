@@ -61,6 +61,15 @@ terraform init
 terraform apply
 ~~~
 
+### docker check
+~~~ bash
+docker ps
+~~~
+
+### stop container
+~~~ bash
+terraform destroy
+~~~
 
 
 ### 참고
