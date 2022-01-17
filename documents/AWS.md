@@ -40,6 +40,7 @@
  - `aws ec2 describe-instance-status` : 인스턴스 상태 확인 가능. `--instance-ids <Instance-ID>`, 
      * `--query Reservations[*].Instances[*].PublicDnsName` ssh 접속을 위한 dns 찾기. 
  - `aws ec2 terminate-instances` : 인스턴스 종료 `--instance-ids <Instance_ID>`
+ - `aws sts get-caller-identity` : AWS CLI 사용자 또는 역할 보기. 
 
 
 ## AWS CloudFormation
