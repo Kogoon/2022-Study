@@ -1,0 +1,25 @@
+# AWS - eksctl 
+
+#Define Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-nginx
+#Define Pod
+spec:
+  selector:
+    matchLabels:
+      run: my-nginx
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        run: my-nginx
+    #Define Container in Pod
+    spec:
+      containers:
+      - name: my-nginx
+        #Get nginx:latest in Docker Hub
+        image: nginx
+        ports:
+        - containerPort: 80
