@@ -3,6 +3,20 @@
 [Devops 공부 목표](https://github.com/Kogoon/Devops-Study/blob/main/documents/Goals.md)
 
 
+### Blog
+최근에 [블로그](https://devkogoon.tistory.com/)를 만들었다. 앞으로 여기에 글을 남겨야겠다.  
+
+### Terraform
+* [Terraform 공부 코드](https://github.com/Kogoon/myTerraform)
+
+
+### Docker
+* [Docker 공부 코드](https://github.com/Kogoon/myDocker)
+
+
+### Kubernetes
+* [Kubernetes 공부 코드](https://github.com/Kogoon/myKubernetes)
+
+
 ### CI/CD
- * [About Trivis CI](https://medium.com/hbsmith/about-travis-ci-65b04d3dead6)
- * [Github Actions](https://github.com/features/actions)
+* [CI/CD 공부 코드](https://github.com/Kogoon/myCICD)
