@@ -1,37 +1,35 @@
 ## 공부 목표 
 
-`2022 상반기 공부 목표` `Devops`   
+`2022 공부 목표` `Devops` `취업가즈아` `Solutions Architect`   
 
 #### Cloud Providers  
- - [ ] AWS (AWS 먼저.. )  
- - [ ] ~~Google Cloud~~  
- - [ ] ~~Azure~~  
+ - [ ] AWS (AWS 먼저.. )   
+ - [ ] Google Cloud  
  - [ ] Digital Ocean  
   
 #### Programming Language
  - [ ] Python  
- - [ ] ~~Go~~  
- - [ ] ~~JAVA~~  
- - [ ] Flutter  
+ - [ ] Go  
    
 #### Web Server
- - [ ] Nginx
+ - [ ] Nginx  
   
-#### Unix  
+#### Unix / Server  
  - [ ] FreeBSD  
+ - [ ] OpenStack
+ - [x] ESXi    
     
 #### Setup
  - [ ] Reverse Proxy  
  - [ ] Caching Server   
- - [ ] ~~Forward Proxy~~    
+ - [ ] Forward Proxy  
  - [ ] Load Balancer  
     
 #### Containers  
- - [ ] Docker  
+ - [x] Docker  
     
 #### Container Orchestration  
  - [ ] Kubernetes  
- - [ ] Docker Swarm   
      
 #### Configuration Management   
  - [ ] Ansible  
@@ -46,10 +44,12 @@
  
 #### Log Management
  - [ ] Elastic Stack  
+    - [ ] ELK
+    - [ ] EFK
  
 #### CI/CD Tool  
  - [ ] Github Actions  
- - [ ] ~~Jenkins~~
+ - [ ] Jenkins
  - [ ] Travis CI
    
 #### Sevice Mesh  
