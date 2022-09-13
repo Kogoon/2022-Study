@@ -19,6 +19,20 @@
 ### git remote
 `-v`
 
+* origin 이 아닌 다른 곳으로
+~~~
+$ git remote add github https://github.com/Company_Name/repository_name.git
+
+# push master to github
+$ git push github master
+
+# Push my-branch to github and set it to track github/my-branch
+$ git push -u github my-branch
+
+# Make some existing branch track github instead of origin
+$ git branch --set-upstream other-branch github/other-branch
+~~~
+
 ### git branch
 `-r`
 ### git checkout 
